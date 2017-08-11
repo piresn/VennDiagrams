@@ -1,0 +1,79 @@
+.tooltip.left .tooltip-arrow {
+  border-width: 0 0px 0px;
+}
+
+.tooltip-inner {
+  background-color: #eee;
+  color: steelblue;
+}
+
+.fa-info-circle{
+  color: lightsteelblue;
+  font-size: 14px;
+}
+
+.actbut_style{
+    color: lightgrey;
+}
+
+.actbut_style:focus, .actbut_style:hover{
+    color: lightsteelblue;
+
+}
+
+.actbut_img {
+  text-shadow: none;
+  background: white;
+  border-color: white;
+  color: white;
+  padding: 10px
+}
+
+.modal {
+  position: fixed;
+  left: 60%;
+  top: 20%;
+  overflow: auto;
+  overflow-y: auto;
+}
+
+.shiny-text-output {
+  color: lightgrey;
+  text-align: right;
+  margin-right: 20px;
+  font-style: italic;
+  font-size: 12px;
+}
+
+[data-value = "helptab"] {
+   max-width: 800px;
+}
+
+#resetInput:hover {
+    color: indianred;
+}
+
+#inpBut{
+  margin-top: 30px;
+}
+
+#inputwind {
+  position: fixed;
+  left: 0;
+  top: 2%;
+  overflow: auto;
+  overflow-y: auto;
+}
+
+#downloadPNG {
+  float: right;
+  margin-top: 5px;
+  margin-right: 30px;
+  color: Gainsboro;
+}
+#downloadPDF {
+  float: right;
+  margin-top: 5px;
+  margin-right: 30px;
+  color: Gainsboro;
+}
